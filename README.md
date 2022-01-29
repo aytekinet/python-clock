@@ -1,2 +1,2 @@
 # python-clock
-python clock beginner
+python clock sample for learning programming 
